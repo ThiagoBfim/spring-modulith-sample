@@ -5,6 +5,25 @@ and a module that aggregate both modules.
 
 ![module aggregator](module-aggregator.png)
 
+
+```
+
+├── aggregator
+│   ├── controller
+│   ├── dto
+│   └── service
+│
+├── order
+│   ├── domain
+│   ├── repository
+│   └── service
+│
+└── user
+    ├── domain
+    ├── repository
+    └── service
+```
+
 ### Requirements
 
 * Java 21
