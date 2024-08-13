@@ -7,7 +7,6 @@ and a module that aggregate both modules.
 
 
 ```
-
 ├── aggregator
 │   ├── controller
 │   ├── dto
@@ -18,7 +17,7 @@ and a module that aggregate both modules.
 │   ├── repository
 │   └── service
 │
-└── user
+└── product
     ├── domain
     ├── repository
     └── service
@@ -33,7 +32,5 @@ and a module that aggregate both modules.
 
 For further reference, please consider the following sections:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.3.2/maven-plugin/reference/html/)
 * [Spring Modulith](https://docs.spring.io/spring-modulith/reference/)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/3.3.2/reference/htmlsingle/index.html#web)
